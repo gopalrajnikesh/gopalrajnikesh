@@ -1,7 +1,7 @@
 # NIKESH-RAJ-GOPAL
 Projects built using JavaScript, HTML, and CSS — with a strong focus on Cyber Security practices, secure coding, and ethical hacking awareness.
 
-# 🛡️ Nikesh Raj — Web Developer & Cyber Security Learner
+# 🛡️ Nikesh Raj Gopal— Web Developer & Cyber Security Learner
 
 Hello! I'm **Nikesh Raj**, a passionate web developer and cyber security enthusiast based in India 🇮🇳. I love building powerful and dynamic web applications using **HTML, CSS, JavaScript**, and tools like **Parcel bundler, Netlify** etc. Alongside, I also explore the world of **Cyber Security** — learning ethical hacking, Linux tools, and secure coding practices.
 
