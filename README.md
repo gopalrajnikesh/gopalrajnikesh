@@ -44,25 +44,6 @@ Hello! I'm **Nikesh Raj**, a passionate web developer and cyber security enthusi
 
 ---
 
-## 🎯 Goals for This Year
-
-> “Plan → Learn → Build → Repeat”
-
-### 🔹 Completed
-- ✅ Master JavaScript DOM & ES6
-- ✅ Build 3+ mini-projects (To-Do, Quiz, GitHub Viewer)
-
-### 🔄 In Progress
-- 🛡️ Preparing for **CEH Certification**
-- ⚔️ Practicing cyber tools & ethical hacking labs
-
-### 🔜 Upcoming
-- 🌐 Build a **CyberSecurity + Web Dev Project**
-- 🧠 Learn **Node.js + Express (Backend)**
-- 🐞 Try **bug bounty** platforms (HackerOne, Bugcrowd)
-
----
-
 ## 🚀 Projects
 
 | Project | Description | Live Demo | GitHub |
