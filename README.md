@@ -16,6 +16,14 @@ Hello! I'm **Nikesh Raj**, a passionate web developer and cyber security enthusi
 
 ---
 
+## 🧩 Work Timeline
+
+| 🔙 Previous Work     | 🔄 Currently Working      | 🔜 Future Goals                        |
+|----------------------|---------------------------|----------------------------------------|
+| ✅ Learned **React.js**<br>🧠 Made SPAs & component-based apps<br>🔗 Used React Router | 🎓 Studying for **CEH (Certified Ethical Hacker)**<br>🛠️ Tools: Nmap, Kali, Metasploit<br>🔐 Learning secure coding | 🚀 Plan: Build a **CyberSec + Web Dev App**<br>🌐 Real-world security implementation<br>🧩 Blend frontend + ethical hacking |
+
+---
+
 ## 🔐 Cyber Security Journey
 
 - 🔍 Learning to find vulnerabilities in web apps
