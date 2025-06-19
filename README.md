@@ -7,12 +7,32 @@ Hello! I'm **Nikesh Raj**, a passionate web developer and cyber security enthusi
 
 ---
 
+## 🔐 Cyber Security Journey
+
+- 🔍 Learning to find vulnerabilities in web apps
+- 💻 Practicing Linux commands and penetration testing tools
+- 📚 Studying OWASP Top 10, secure authentication, XSS, SQL Injection
+- 🎯 Focused on ethical hacking and responsible disclosure
+
+---
+
 ## 👨‍💻 Tech Skills
 
 - 🧱 **Frontend:** HTML5, CSS3, JavaScript (ES6+), DOM Manipulation
 - 📦 **Tools:** Git, GitHub, Parcel, Netlify, VS Code
 - 🛡️ **Cyber Security:** Kali Linux, Nmap, Wireshark, Metasploit (basics), OWASP Top 10 concepts
 - 🧠 **Soft Skills:** Problem solving, bug fixing, logical thinking
+
+---
+
+## 📜 Certifications
+
+| Certification                                      | Status       | Notes                                           |
+|---------------------------------------------------|--------------|-------------------------------------------------|
+| 🛡️ **Certified Ethical Hacker (CEH)**             | 🟡 In Progress | Tools: Nmap, Wireshark, Metasploit, Burp Suite |
+| 💻 **JavaScript DSA — FreeCodeCamp**              | 🔜 Planned    | Algorithms, recursion, sorting, searching       |
+| 🔐 **OWASP Top 10 Labs (Self Practice)**          | 🟢 Ongoing    | XSS, SQLi, CSRF, auth flaws                     |
+| 🐧 **Linux Fundamentals for Hackers**             | 🟢 Learning   | CLI tools, file systems, networking             |
 
 ---
 
@@ -24,12 +44,22 @@ Hello! I'm **Nikesh Raj**, a passionate web developer and cyber security enthusi
 
 ---
 
-## 🔐 Cyber Security Journey
+## 🎯 Goals for This Year
 
-- 🔍 Learning to find vulnerabilities in web apps
-- 💻 Practicing Linux commands and penetration testing tools
-- 📚 Studying OWASP Top 10, secure authentication, XSS, SQL Injection
-- 🎯 Focused on ethical hacking and responsible disclosure
+> “Plan → Learn → Build → Repeat”
+
+### 🔹 Completed
+- ✅ Master JavaScript DOM & ES6
+- ✅ Build 3+ mini-projects (To-Do, Quiz, GitHub Viewer)
+
+### 🔄 In Progress
+- 🛡️ Preparing for **CEH Certification**
+- ⚔️ Practicing cyber tools & ethical hacking labs
+
+### 🔜 Upcoming
+- 🌐 Build a **CyberSecurity + Web Dev Project**
+- 🧠 Learn **Node.js + Express (Backend)**
+- 🐞 Try **bug bounty** platforms (HackerOne, Bugcrowd)
 
 ---
 
@@ -46,6 +76,11 @@ Hello! I'm **Nikesh Raj**, a passionate web developer and cyber security enthusi
 ## 📈 GitHub Stats
 
 ![Nikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikeshraj&show_icons=true&theme=github_dark)
+
+---
+## 👀 Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=nikeshraj&label=Profile+Views&color=0e75b6&style=flat)
 
 
 ---
