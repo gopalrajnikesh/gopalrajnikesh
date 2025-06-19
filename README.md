@@ -2,10 +2,43 @@
 Projects built using JavaScript, HTML, and CSS — with a strong focus on Cyber Security practices, secure coding, and ethical hacking awareness.
 
 # 🛡️ Nikesh Raj Gopal— Web Developer & Cyber Security Learner
+**Web Developer** | **Cyber Security Enthusiast** | India 🇮🇳  
+💡 Passionate about building secure web applications & ethical hacking
 
 Hello! I'm **Nikesh Raj**, a passionate web developer and cyber security enthusiast based in India 🇮🇳. I love building powerful and dynamic web applications using **HTML, CSS, JavaScript**, and tools like **Parcel bundler, Netlify** etc. Alongside, I also explore the world of **Cyber Security** — learning ethical hacking, Linux tools, and secure coding practices.
 
 ---
+ 🛡️ Nikesh Raj Gopal
+
+**Web Developer** | **Cyber Security Enthusiast** | India 🇮🇳  
+💡 Passionate about building secure web applications & ethical hacking
+
+---
+
+## 🧑‍💻 About Me
+
+Hello! I'm **Nikesh Raj**, a web developer and cyber security learner focused on writing secure, scalable, and modern code.
+
+🔹 I build apps using **HTML, CSS, JavaScript**  
+🔹 I deploy with **Parcel**, **Netlify**, and manage code with **Git & GitHub**  
+🔹 I explore **Cyber Security** — from **OWASP Top 10** to **Linux tools** & **bug hunting**
+
+---
+
+## 🔧 Currently Working On
+
+### 🔙 Previously Completed ✅
+- 📘 Learned **React.js** — components, props, state, and React Router
+- 🛠️ Created interactive SPAs and responsive web apps
+
+### 🔄 Currently Learning 🟨
+- 📚 Studying for **CEH (Certified Ethical Hacker)** certification
+- 🛡️ Practicing tools like **Nmap, Burp Suite, Metasploit**, and **Kali Linux**
+- 🔍 Exploring real-world vulnerabilities and ethical hacking techniques
+
+```text
+Progress: [■■■■■■■■■□□□] 70%
+
 
 ## 👨‍💻 Tech Skills
 
