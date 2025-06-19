@@ -37,7 +37,7 @@ Hello! I'm **Nikesh Raj**, a passionate web developer and cyber security enthusi
 
 ## 📈 GitHub Stats
 
-![Nikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikeshraj&show_icons=true&theme=dracula)
+![Nikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikeshraj&show_icons=true&theme=github_dark)
 
 
 ---
